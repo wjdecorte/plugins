@@ -1,14 +1,6 @@
 """
 metarepo_plugin.py - Airflow plugin for managing tables in metadata repository
 
-@author - Jason DeCorte
-
-@copyright:  2016 Equifax. All rights reserved.
-
-@license:    Apache License 2.0
-
-@contact:    jason.decorte@equifax.com
-
 Version History:
 0.2 jwd3 11/11/2016 Hotfix
     Added SQLA scoped_session
